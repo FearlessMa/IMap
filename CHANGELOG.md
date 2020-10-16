@@ -2,12 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [1.2.0-alpha.0](https://github.com/FearlessMa/IMap/compare/v1.1.0...v1.2.0-alpha.0) (2020-10-16)
+## [1.2.0-alpha.1](https://github.com/FearlessMa/IMap/compare/v1.2.0-alpha.0...v1.2.0-alpha.1) (2020-10-16)
+
+# [1.2.0-alpha.0](https://github.com/FearlessMa/IMap/compare/v1.1.0...v1.2.0-alpha.0) (2020-10-16)
 
 
 ### Features
 
 * daf ([667e11a](https://github.com/FearlessMa/IMap/commit/667e11aa450359ac11aadf87a73fccf6f807b956))
+
+
 
 # [1.1.0](https://github.com/FearlessMa/IMap/compare/v1.0.1...v1.1.0) (2020-10-16)
 

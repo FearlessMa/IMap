@@ -31,6 +31,3 @@ ins.createMap().then(map=>{
 })
 
 ```
-
-
-test

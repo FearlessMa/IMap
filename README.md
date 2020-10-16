@@ -1,5 +1,5 @@
 
-##使用方法
+## 使用方法
 
 ```js
 import IMap, { NavigationControl } from './components/map';

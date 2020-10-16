@@ -1,8 +1,4 @@
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
-
-## [1.1.0](https://github.com/FearlessMa/IMap/compare/v1.0.1...v1.1.0) (2020-10-16)
+# [1.1.0](https://github.com/FearlessMa/IMap/compare/v1.0.1...v1.1.0) (2020-10-16)
 
 
 ### Features
@@ -14,4 +10,9 @@ All notable changes to this project will be documented in this file. See [standa
 * ttt ([076d43d](https://github.com/FearlessMa/IMap/commit/076d43d3c8b8bd7d4a2f61525a9560df9ed5b48b))
 * 地图基本功能,插件封装 ([57b113e](https://github.com/FearlessMa/IMap/commit/57b113e74aa9ebf46daa682a2a4299aba2777f9b))
 
+
+
 ## 1.0.1 (2020-07-24)
+
+
+

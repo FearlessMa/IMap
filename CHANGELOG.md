@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.6.0](https://github.com/FearlessMa/IMap/compare/v1.5.1...v1.6.0) (2020-10-16)
+
+
+### Features
+
+* **t:** tt ([ac11765](https://github.com/FearlessMa/IMap/commit/ac1176594a002c0c0d84915ffa7684287a087fed))
+
 # [1.5.0](https://github.com/FearlessMa/IMap/compare/v1.5.1...v1.5.0) (2020-10-16)
 
 
@@ -106,6 +117,3 @@
 
 
 ## 1.0.1 (2020-07-24)
-
-
-
